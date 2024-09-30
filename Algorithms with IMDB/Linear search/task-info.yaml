@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: algorithms.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: movies.csv
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/16285#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 29 Sep 2024 12:25:54 UTC"
+record: 2
